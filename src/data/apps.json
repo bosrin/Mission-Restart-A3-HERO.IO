@@ -1,0 +1,216 @@
+[
+  {
+    "id": 1,
+    "title": "Duolingo",
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968885.png",
+    "companyName": "Duolingo Inc.",
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "size": 45,
+    "description": "Learn English and other languages with fun, bite-sized lessons and interactive exercises.",
+    "ratings": [
+      { "name": "5 Star", "count": 3200000 },
+      { "name": "4 Star", "count": 800000 },
+      { "name": "3 Star", "count": 200000 },
+      { "name": "2 Star", "count": 50000 },
+      { "name": "1 Star", "count": 30000 }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Visual Studio Code",
+    "image": "https://cdn-icons-png.flaticon.com/512/906/906324.png",
+    "companyName": "Microsoft",
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "size": 120,
+    "description": "Lightweight but powerful source code editor supporting multiple languages and extensions.",
+    "ratings": [
+      { "name": "5 Star", "count": 2500000 },
+      { "name": "4 Star", "count": 400000 },
+      { "name": "3 Star", "count": 100000 },
+      { "name": "2 Star", "count": 30000 },
+      { "name": "1 Star", "count": 20000 }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Facebook",
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733547.png",
+    "companyName": "Meta Platforms",
+    "ratingAvg": 4.2,
+    "downloads": 5000000000,
+    "size": 70,
+    "description": "Connect with friends, share updates, and explore content from around the world."
+  },
+  {
+    "id": 4,
+    "title": "Instagram",
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111463.png",
+    "companyName": "Meta Platforms",
+    "ratingAvg": 4.5,
+    "downloads": 3000000000,
+    "size": 65,
+    "description": "Share photos, reels, and stories while connecting with your favorite creators."
+  },
+  {
+    "id": 5,
+    "title": "WhatsApp",
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
+    "companyName": "Meta Platforms",
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "size": 40,
+    "description": "Secure messaging and calling app with end-to-end encryption."
+  },
+  {
+    "id": 6,
+    "title": "YouTube",
+    "image": "https://cdn-icons-png.flaticon.com/512/1384/1384060.png",
+    "companyName": "Google",
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "size": 90,
+    "description": "Watch videos, stream live content, and discover creators worldwide."
+  },
+  {
+    "id": 7,
+    "title": "Spotify",
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111624.png",
+    "companyName": "Spotify Ltd.",
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "size": 85,
+    "description": "Stream millions of songs, create playlists, and discover new music."
+  },
+  {
+    "id": 8,
+    "title": "Canva",
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+    "companyName": "Canva Pty Ltd",
+    "ratingAvg": 4.8,
+    "downloads": 100000000,
+    "size": 75,
+    "description": "Create stunning graphics, presentations, and social media designs easily."
+  },
+  {
+    "id": 9,
+    "title": "Twitter",
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733579.png",
+    "companyName": "Twitter, Inc.",
+    "ratingAvg": 4.3,
+    "downloads": 1500000000,
+    "size": 60,
+    "description": "Follow news, updates, and join conversations worldwide."
+  },
+  {
+    "id": 10,
+    "title": "TikTok",
+    "image": "https://cdn-icons-png.flaticon.com/512/3046/3046120.png",
+    "companyName": "ByteDance",
+    "ratingAvg": 4.4,
+    "downloads": 3000000000,
+    "size": 70,
+    "description": "Create, watch, and share short-form mobile videos with music and effects."
+  },
+  {
+    "id": 11,
+    "title": "Snapchat",
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733558.png",
+    "companyName": "Snap Inc.",
+    "ratingAvg": 4.1,
+    "downloads": 1200000000,
+    "size": 50,
+    "description": "Send photos and videos that disappear after viewing and explore stories."
+  },
+  {
+    "id": 12,
+    "title": "Slack",
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111615.png",
+    "companyName": "Slack Technologies",
+    "ratingAvg": 4.6,
+    "downloads": 80000000,
+    "size": 100,
+    "description": "Team communication and collaboration platform with channels and chat."
+  },
+  {
+    "id": 13,
+    "title": "Zoom",
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733585.png",
+    "companyName": "Zoom Video Communications",
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "size": 90,
+    "description": "Video conferencing app for meetings, webinars, and virtual events."
+  },
+  {
+    "id": 14,
+    "title": "Google Maps",
+    "image": "https://cdn-icons-png.flaticon.com/512/684/684908.png",
+    "companyName": "Google",
+    "ratingAvg": 4.7,
+    "downloads": 10000000000,
+    "size": 110,
+    "description": "Navigate, explore, and get real-time traffic updates and directions."
+  },
+  {
+    "id": 15,
+    "title": "LinkedIn",
+    "image": "https://cdn-icons-png.flaticon.com/512/174/174857.png",
+    "companyName": "Microsoft",
+    "ratingAvg": 4.4,
+    "downloads": 800000000,
+    "size": 80,
+    "description": "Professional networking platform to connect, share, and find jobs."
+  },
+  {
+    "id": 16,
+    "title": "Pinterest",
+    "image": "https://cdn-icons-png.flaticon.com/512/145/145808.png",
+    "companyName": "Pinterest, Inc.",
+    "ratingAvg": 4.5,
+    "downloads": 400000000,
+    "size": 60,
+    "description": "Discover and save creative ideas for home, fashion, and more."
+  },
+  {
+    "id": 17,
+    "title": "Reddit",
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111589.png",
+    "companyName": "Reddit Inc.",
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "size": 65,
+    "description": "Join communities, share content, and discuss topics of interest."
+  },
+  {
+    "id": 18,
+    "title": "Netflix",
+    "image": "https://cdn-icons-png.flaticon.com/512/733/733609.png",
+    "companyName": "Netflix, Inc.",
+    "ratingAvg": 4.6,
+    "downloads": 2000000000,
+    "size": 95,
+    "description": "Stream movies, TV shows, and original content anytime, anywhere."
+  },
+  {
+    "id": 19,
+    "title": "Evernote",
+    "image": "https://cdn-icons-png.flaticon.com/512/2111/2111542.png",
+    "companyName": "Evernote Corporation",
+    "ratingAvg": 4.4,
+    "downloads": 100000000,
+    "size": 70,
+    "description": "Organize notes, tasks, and ideas across devices seamlessly."
+  },
+  {
+    "id": 20,
+    "title": "Adobe Photoshop Express",
+    "image": "https://cdn-icons-png.flaticon.com/512/5968/5968570.png",
+    "companyName": "Adobe",
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "size": 80,
+    "description": "Edit photos and create stunning images with professional tools on mobile."
+  }
+]
